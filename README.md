@@ -7,6 +7,7 @@
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pomidorenen&theme=cobalt)](https://git.io/streak-stats)
+![Codewars](https://github.r2v.ch/codewars?user=Pomidorenen)
 </div>
 
 
@@ -34,11 +35,7 @@
 
   <div >
     <h3>auxiliary languages, frameworks, libraries and so on...</h3>
-
-  Redux-state manager
-  Node.JS - As a backend
-  Postgres - use the database for full stack projects
-  
+    
    ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -50,6 +47,60 @@
   ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+  
+  <h4>Backend</h4>
+  <ul>
+    <li>
+        Node.JS - As a backend
+    </li>
+     <li>
+        Postgres - use the database for full stack projects
+    </li>
+     <li>
+        express - framework for writing bakkend
+    </li>
+     <li>
+        socket.io - Web socket
+    </li>
+  </ul>
+
+   <h4>Frontend</h4>
+   <ul>
+     <li>
+       React -the main library for writing applications
+     </li>
+     <li>
+     Redux - state manager
+     </li>
+     <li>
+      SASS - using for styles
+     </li>
+     <li>
+      Three.js - I write various 3D scenes and games
+     </li>
+     <li>
+      GSAP - animation
+     </li>
+     <li>
+      Vite - bundler
+     </li>
+   </ul>
+  
+   <h4>Draw/design/3D</h4>
+   <ul>
+     <li>
+         Figma - make website templates and logos in it
+     </li>
+     <li>
+         Adobe photoshop - Photo Editor
+     </li>
+       <li>
+         Krita - For drawing
+     </li>
+       <li>
+         Blender - I use it almost the same way as Photoshop, but for more complex scenes. Also for creating a 3D model.
+     </li>
+   </ul>
   </div>
 <h2>
   Can use from time to time
@@ -81,7 +132,8 @@ contact me
 ###
 <h1>other information</h1>
 <div>
-
   
   ![](https://komarev.com/ghpvc/?username=Pomidorenen&color=green)
 </div>
+
+
