@@ -62,6 +62,9 @@
      <li>
         socket.io - Web socket
     </li>
+    <li>
+      Nest - coming soon 🕓
+    </li>
   </ul>
 
    <h4>Frontend</h4>
@@ -83,6 +86,12 @@
      </li>
      <li>
       Vite - bundler
+     </li>
+     <li>
+       Phaser- coming soon 🕓
+       </li>
+     <li>
+       Next.js - coming soon 🕓
      </li>
    </ul>
   
